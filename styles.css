@@ -1,0 +1,70 @@
+.welcome {
+    color: rgb(29, 155, 4);
+    text-align: center;
+}
+.To {
+    color: rgb(255, 239, 22);
+    text-align: center;
+}
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+    padding-left: 0;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    padding-left: 0;
+    margin: auto;
+}
+
+ul li {
+    border: 3px outset;
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 823px;
+    margin: auto;
+}
+.fact1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  
+}
+.img1 {
+    display: block;
+    margin: auto;
+    width: fit-content;
+    width: 100%;
+}
+.ul1 {
+    margin-bottom: auto;
+}
+
+.img2 {
+    display: block;
+    width: 823px;
+    margin: auto;
+    width: 100%;
+}
+.tx2 {
+    color: rgb(0, 0, 0);
+}
+.fact3 {
+    color: black;
+}
+.img3 {
+    display: block;
+    width: 100%;
+}
